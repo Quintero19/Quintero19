@@ -56,7 +56,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
 
 ## 🐍 Animación
 
