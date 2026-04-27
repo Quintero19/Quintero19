@@ -51,26 +51,12 @@
 
 - 📌 Arquitectura de software  
 - 📌 Buenas prácticas en backend  
-- 📌 Desarrollo de proyectos completos  
+- 📌 Desarrollo de proyectos completos
+- 📌 Docker
 
 ---
 
 ## 🚀 Proyectos destacados
-
-🔹 Aquí puedes añadir tus mejores proyectos  
-🔹 Intenta incluir links y una pequeña descripción  
-
----
-
-## 📫 Contacto
-
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
----
 
 ## 🐍 Animación
 
