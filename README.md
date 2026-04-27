@@ -1,14 +1,79 @@
+<h1 align="center">👋 Hola, soy Yeison</h1>
+<h3 align="center">Desarrollador Full Stack en formación 🚀</h3>
 
-# Hola, mi nombre es Yeison y soy desarrollador de software
+---
 
-- Desarrollador Full Stack en formación.  
-- Experiencia en HTML, CSS, JavaScript y React   para frontend;
--  Node.js y C# en backend. Conocimientos en bases de datos SQL/MySQL y diseño de interfaces con Figma.
+## 🧑‍💻 Sobre mí
 
-# Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Quintero19&theme=black-ice)](https://git.io/streak-stats)
+- 💻 Apasionado por el desarrollo web  
+- 🌱 Actualmente aprendiendo y mejorando mis habilidades Full Stack  
+- ⚡ Me gusta construir interfaces limpias y funcionales  
+- 🎯 Enfocado en crecer como desarrollador profesional  
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+## 🛠️ Tecnologías
 
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,cs" />
+</p>
+
+### 🗄️ Base de Datos & Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,figma,git" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quintero19&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Quintero19&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quintero19&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Actualmente aprendiendo
+
+- 📌 Arquitectura de software  
+- 📌 Buenas prácticas en backend  
+- 📌 Desarrollo de proyectos completos  
+
+---
+
+## 🚀 Proyectos destacados
+
+🔹 Aquí puedes añadir tus mejores proyectos  
+🔹 Intenta incluir links y una pequeña descripción  
+
+---
+
+## 📫 Contacto
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🐍 Animación
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
