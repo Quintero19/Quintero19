@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Quintero19/Quintero19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, mi nombre es Yeison y soy desarrollador de software
 
-Here are some ideas to get you started:
+- Desarrollador Full Stack en formación.  
+- Experiencia en HTML, CSS, JavaScript y React   para frontend;
+-  Node.js y C# en backend. Conocimientos en bases de datos SQL/MySQL y diseño de interfaces con Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Quintero19&theme=black-ice)](https://git.io/streak-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+
+
