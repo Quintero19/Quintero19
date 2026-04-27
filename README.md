@@ -34,15 +34,15 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quintero19&show_icons=true&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quintero19&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Quintero19&theme=nightowl" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Quintero19&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quintero19&layout=compact&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quintero19&layout=compact&theme=github_dark" />
 </p>
 
 ---
