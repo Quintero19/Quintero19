@@ -32,7 +32,11 @@
 ---
 
 ## 📊 Estadísticas de GitHub
+## 🔥 Lenguajes más utilizados
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quintero19&layout=donut&theme=github_dark" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Quintero19&show_icons=true&theme=github_dark" />
 </p>
